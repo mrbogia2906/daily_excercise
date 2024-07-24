@@ -1,4 +1,5 @@
 class AppTexts {
+  AppTexts._();
   static const String goodMorning = 'Good Morning\nShishir';
   static const String searchHint = 'Search';
   static const String dietRecommendation = 'Diet Recommendation';
